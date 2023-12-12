@@ -445,7 +445,7 @@ form button {
 @media screen and (max-width: 425px) {
   header,
   footer {
-    width: 110%;
+    width: 100%;
   }
   header {
     font-size: 12px;
